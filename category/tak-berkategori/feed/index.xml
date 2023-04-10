@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Tak Berkategori &#8211; Markas Walet</title>
-	<atom:link href="/category/tak-berkategori/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/tak-berkategori/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 05 Apr 2023 03:02:55 +0000</lastBuildDate>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Halo dunia!</title>
-		<link>/2023/04/05/halo-dunia/</link>
-					<comments>/2023/04/05/halo-dunia/#comments</comments>
+		<link>/halo-dunia.html</link>
+					<comments>/halo-dunia.html#comments</comments>
 		
 		<dc:creator><![CDATA[markaswalet]]></dc:creator>
 		<pubDate>Wed, 05 Apr 2023 03:02:55 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/04/05/halo-dunia/feed/</wfw:commentRss>
+					<wfw:commentRss>/halo-dunia.html/feed</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
